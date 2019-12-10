@@ -35,7 +35,7 @@ npm run test
 Run server (defaults to localhost:3000):
 
 ```
-npm start
+npm start 
 ```
 
 Follow the coach instructions and good luck!
