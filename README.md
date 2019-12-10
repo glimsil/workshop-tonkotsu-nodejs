@@ -34,7 +34,7 @@ npm run test
 
 Run server (defaults to localhost:3000):
 
-```
+``` 
 npm start 
 ```
 
